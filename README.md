@@ -1,2 +1,2 @@
 # ChitChat
-chitchat bot based on rasa2
+chitchat bot based on Rasa2
